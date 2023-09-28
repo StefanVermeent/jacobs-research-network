@@ -1,0 +1,110 @@
+/* Basic styling for a unique white background and professional look */
+body {
+    font-family: 'Lucida Sans', Arial, sans-serif;
+    background-color: #fafafa;
+    margin: 4em;
+    color: #555;
+    line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #666;
+    margin-bottom: 1em;
+}
+
+a {
+    color: #008FBF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.product-box {
+    position: relative; /* To allow absolute positioning inside it */
+    display: inline-block;
+    width: 200px; /* Set a width and height that fits your images and design */
+    height: 200px;
+    overflow: hidden; /* To ensure the zoom effect doesn't spill outside the box */
+    margin: 15px;
+    border-radius: 7px;
+    transition: transform 0.3s; /* smooth transition for the zoom */
+}
+
+.product-box:hover {
+    transform: scale(1.05); /* slightly enlarges the box */
+}
+
+.product-box img {
+    width: 100%; /* Make the image take up the full width of the container */
+    height: 100%; /* Make the image take up the full height of the container */
+    object-fit: cover; /* To make sure the image scales correctly */
+    transition: transform 0.3s; /* smooth transition for the zoom */
+}
+
+.product-box:hover img {
+    transform: scale(1.1); /* slightly enlarges the image on hover */
+}
+
+.overlay-text {
+    position: absolute; /* Absolutely position the text over the image */
+    bottom: 10px; /* Position it near the bottom */
+    left: 10px; /* Position it slightly from the left */
+    color: #fff; /* White color for text */
+    background-color: rgba(0, 0, 0, 0.5); /* Slight black background for readability */
+    padding: 5px;
+    border-radius: 5px;
+    transition: transform 0.3s, font-size 0.3s; /* smooth transition for the zoom and font size */
+}
+
+.product-box:hover .overlay-text {
+    transform: scale(1.1); /* slightly enlarges the text on hover */
+    font-size: 1.1em; /* slightly increases font size on hover */
+}
+
+
+.member {
+    margin-bottom: 2em;
+    position: relative; /* Set parent positioning context for absolute positioning */
+    padding-top: 2em; /* Make space for the name above the image */
+}
+
+.member-photo {
+    float: left; 
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-right: 10px; 
+    border-right: 0.1px solid #ddd; 
+    padding-right: 10px; 
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.member-details {
+    padding-left: 0px;
+    font-size: 0.7em;
+}
+
+.member-details strong {
+    position: absolute; /* Absolutely position the name */
+    top: 0; /* At the top of the .member container */
+    left: 0; /* At the start of the .member container */
+    width: 100%; /* Span the full width */
+    background: #fafafa; /* Ensure the name has a background, so it stands out clearly */
+    padding-left: 0px; /* Little space from the left */
+    font-size: 2.2em;
+}
+
+
+
+.member-focus {
+    font-size: 0.6em;
+    margin-top: -0.5px;
+    margin-bottom: 5px;
+}
+
+.member-keywords {
+    font-size: 0.5em;
+    margin-top: 0;
+}

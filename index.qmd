@@ -1,0 +1,15 @@
+# Welcome to the Jacobs Research Network
+
+Our goal is to improve science communication about people living in poverty. To convey their knowledge, perspectives, values, strengths, and strategies.
+
+# Recent products
+
+::: {class="product-box"}
+![](img/project1.jpg)
+<div class="overlay-text">Description for Product 1</div>
+:::
+
+::: {class="product-box"}
+![](img/project2.jpg)
+<div class="overlay-text">Description for Product 2</div>
+:::
