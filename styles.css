@@ -65,9 +65,9 @@ a:hover {
 
 
 .member {
-    margin-bottom: 2em;
-    position: relative; /* Set parent positioning context for absolute positioning */
-    padding-top: 2em; /* Make space for the name above the image */
+    margin-top: 3em;
+    margin-bottom: 0em;
+    position: relative;
 }
 
 .member-photo {
@@ -78,35 +78,36 @@ a:hover {
     margin-right: 10px; 
     border-right: 0.1px solid #ddd; 
     padding-right: 10px; 
-    box-shadow: 0px 0 0px rgba(0, 0, 0, 0.1);
+    
 }
 
 .member-details {
-    padding-left: 0px;
     font-size: 0.7em;
+    margin-left: 160px; /* Adjust this margin to control the space between the image and details */
+    padding-top: px; /* Adjust as needed for vertical spacing */
+    margin-bottom: 100px; /* Remove space below .member-details */
+    box-shadow: 0px 0 0px rgba(0, 0, 0, 0.1);
 }
 
 .member-details strong {
-    position: absolute; /* Absolutely position the name */
-    top: 0; /* At the top of the .member container */
-    left: 0; /* At the start of the .member container */
-    width: 100%; /* Span the full width */
-    background: #fafafa; /* Ensure the name has a background, so it stands out clearly */
-    padding-left: 0px; /* Little space from the left */
     font-size: 2.2em;
+    margin-bottom: 0; /* Remove space below the name */
+    display: block; /* Place the name on a new line */
+    background: #fafafa;
+    padding-left: 0px;
+    padding-top: 10px;
+    line-height: 0;
+
 }
 
-
-
-.member-focus {
-    font-size: 0.6em;
-    margin-top: -0.5px;
-    margin-bottom: 5px;
+.research-description {
+    font-size: 0.9em;
+    margin-bottom: 0; /* Remove space below the description */
 }
 
-.member-keywords {
-    font-size: 0.5em;
-    margin-top: 0;
+.member-details strong i.fa {
+    margin-right: 5px; /* Add spacing between the icon and the name */
+    color: #008FBF; /* Set the icon color to match your design */
 }
 
 /* Title hiding */

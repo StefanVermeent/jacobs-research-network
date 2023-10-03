@@ -18,4 +18,6 @@ format:
     toc: true
 
 editor: visual
+includes:
+    in_header: header-includes.html
 

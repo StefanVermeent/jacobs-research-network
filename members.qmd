@@ -11,11 +11,9 @@ format:
 ::: member-details      
 [**Willem Frankenhuis**](http://www.willem.maartenfrankenhuis.nl/)
 
-Willem's research investigates how experiences related to poverty, and the timing of these experiences, shape children's learning and how they regulate their behavior and physiological responses across development. A key focus is understanding how these experiences provide children with tools to adapt to their unique situations, even when such adaptations may come at a cost. Willem adopts a strength-based approach to his work, exploring the assets that children, their families, and communities develop in the face of adversity. To ensure the accuracy of my findings, he employs research methods and measures sensitive to both sociocultural and developmental nuances. These methods aid in deriving conclusions about the specific aspects of poverty that impact different groups, the reasons behind these impacts, and the varied contexts in which they manifest. Collectively, Willem's work strives to amplify the voices and needs of economically marginalized children, guiding the creation of social and educational policies that promote their thriving. 
+Associate Professor at the Institute for Biodiversity and Ecosystem Dynamics of the University of Amsterdam and Senior Researcher at the Max Planck Institute for the Study of Crime, Security, and Law in Germany.
 
-Willem Frankenhuis is Associate Professor at the Institute for Biodiversity and Ecosystem Dynamics of the University of Amsterdam. He is also Senior Researcher at the Max Planck Institute for Research on Crime, Security and Law in Germany. Before his current position, he worked at Utrecht University (2020-2023) and Radboud University (2012-2020).
-
-*Keywords: Child poverty, adaptive self-regulation, socioculturally-valid measuring, strength-based approach*  
+*Keywords: Child poverty, adaptive self-regulation, socioculturally-valid measuring, strength-based approach*
 :::
 :::
 
@@ -26,9 +24,7 @@ Willem Frankenhuis is Associate Professor at the Institute for Biodiversity and 
 ::: member-details      
 [**Meriah DeJoseph**](https://meriahdejoseph.com/)
 
-Meriah's research investigates how experiences related to poverty, and the timing of these experiences, shape children's learning and how they regulate their behavior and physiological responses across development. A key focus is understanding how these experiences provide children with tools to adapt to their unique situations, even when such adaptations may come at a cost. Meriah adopts a strength-based approach to her work, exploring the assets that children, their families, and communities develop in the face of adversity. To ensure the accuracy of my findings, she employs research methods and measures sensitive to both sociocultural and developmental nuances. These methods aid in deriving conclusions about the specific aspects of poverty that impact different groups, the reasons behind these impacts, and the varied contexts in which they manifest. Collectively, Meriah's work strives to amplify the voices and needs of economically marginalized children, guiding the creation of social and educational policies that promote their thriving. 
-
-Meriah DeJoseph is a postdoctoral scholar at Stanford University.
+Postdoctoral scholar at Stanford University.
 
 *Keywords: Child poverty, adaptive self-regulation, socioculturally-valid measuring, strengt-based approach*  
 :::
