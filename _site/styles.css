@@ -1,6 +1,6 @@
 /* Update your CSS with the selected color palette */
 body {
-  /*  background-color: #7D6BF0; */
+    /* background-color: #7D6BF0; */
     color: #333333;
     font-family: 'Georgia', serif;
 }
@@ -10,8 +10,6 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Raleway', sans-serif;
 }
 
-
-
 a {
     color: #4CAF50;
 }
@@ -19,10 +17,9 @@ a {
 /* Add this to create a lavender border around content sections */
 .section {
     background-color: #fff;
-/*  border: 2px solid #7D6BF0; */
+    /* border: 2px solid #7D6BF0; */
     padding: 20px;
 }
-
 
 a:hover {
     text-decoration: underline;
@@ -70,7 +67,6 @@ a:hover {
     font-size: 1.1em; /* slightly increases font size on hover */
 }
 
-
 .member {
     border-radius: 10px; /* Adjust border-radius as desired */
     transition: transform 0.3s, box-shadow 0.3s;
@@ -91,20 +87,8 @@ a:hover {
     height: 0px;
 }
 
-/*.member-photo {
-/*    float: left; 
-/*    width: 150px;
-/*    height: 150px;
-/*    object-fit: cover;
-/*    margin-right: 10px; 
-/*    border-right: 0.1px solid #ddd; 
-/*    padding-right: 10px; 
-/*    
-/*}
-
-/* Apply circular borders and hover effect to member photos */
 .member-photo {
-    float: left; 
+    float: left;
     width: 150px;
     height: 150px;
     padding-top: 10px;
@@ -121,24 +105,21 @@ a:hover {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
-/* Apply the soft glow effect to text when hovering over the entire .member section */
 .member:hover .member-details,
 .member:hover .research-description,
 .member:hover .contact-info {
     text-shadow: 0 0 5px rgba(0, 0, 0, 0);
 }
 
-
 .member:hover .member-photo {
     box-shadow: none;
 }
-
 
 /* Make the entire .member section a hyperlink */
 .member a {
     text-decoration: none; /* Remove underline from the link */
     color: inherit; /* Inherit text color */
-    display: block; /* Make the link occupy the entire box space */
+    display: block; /* Make the link occupy the entire block space */
     padding: 10px; /* Add padding for clickable area */
 }
 
@@ -163,7 +144,6 @@ a:hover {
     padding-left: 0px;
     padding-top: 20px;
     line-height: 0;
-
 }
 
 .research-description {
@@ -177,7 +157,6 @@ a:hover {
 }
 
 /* Title hiding */
-
 h1.title {
     display: none;
 }
@@ -221,6 +200,29 @@ h1.title {
     transform: scaleX(1);
 }
 
+/* Reduce spacing between specific paragraphs */
 .reduce-paragraph-spacing p {
-      margin-bottom: 5px; /* Adjust the value as needed */
+    margin-bottom: 5px; /* Adjust the value as needed */
+}
+
+/* Media Query for Responsive Design */
+@media (max-width: 768px) {
+    /* Adjust styles for smaller screens here */
+    .member {
+        height: auto; /* Allow member boxes to expand in height based on content */
+        margin-bottom: 1em; /* Reduce margin between member boxes */
     }
+
+    .member-photo {
+        float: center;
+        width: 150px;
+        height: 150px;
+        margin-right: 0; /* Remove right margin on member photos */
+    }
+
+    .member-details {
+        margin-left: 0; /* Remove left margin for member details */
+        margin-top: 10px; /* Add margin at the top of member details */
+        text-align: center; /* Center-align member details text */
+    }
+}
