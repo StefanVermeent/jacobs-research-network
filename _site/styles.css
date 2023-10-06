@@ -74,7 +74,7 @@ a:hover {
     margin-bottom: 0em;
     position: relative;
     cursor: pointer;
-    height: auto + 25px;
+    height: auto + px;
 }
 
 .custom-link {
@@ -213,6 +213,7 @@ h1.title {
         text-align: center; /* Center-align content horizontally */
         margin: 0; /* Reset margin */
         height: auto;
+        min-height: 170px;
     }
 
     .member-photo {
