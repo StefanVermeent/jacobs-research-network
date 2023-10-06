@@ -13,9 +13,8 @@ format:
 
 Associate Professor at the Institute for Biodiversity and Ecosystem Dynamics of the University of Amsterdam and Senior Researcher at the Max Planck Institute for the Study of Crime, Security, and Law in Germany. 
 
-:::{.reduce-paragraph-spacing}
+
 *Keywords:* Child poverty, adaptive self-regulation, socioculturally-valid measuring, strength-based approach
-:::
 
 :::{.reduce-paragraph-spacing}
 ::: special-sentence

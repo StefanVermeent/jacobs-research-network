@@ -74,7 +74,7 @@ a:hover {
     margin-bottom: 0em;
     position: relative;
     cursor: pointer;
-    height: auto;
+    height: auto + 25px;
 }
 
 .custom-link {
