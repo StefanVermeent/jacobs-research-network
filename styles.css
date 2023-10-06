@@ -71,10 +71,10 @@ a:hover {
     border-radius: 10px; /* Adjust border-radius as desired */
     transition: transform 0.3s, box-shadow 0.3s;
     margin-top: 0em;
-    margin-bottom: 2em;
+    margin-bottom: 0em;
     position: relative;
     cursor: pointer;
-    height: 200px;
+    height: auto;
 }
 
 .custom-link {
@@ -212,12 +212,13 @@ h1.title {
         display: block; /* Reset display to block for mobile */
         text-align: center; /* Center-align content horizontally */
         margin: 0; /* Reset margin */
+        height: auto;
     }
 
     .member-photo {
-        width: 150px; /* Set the width for the member photo */
-        height: 150px; /* Set the height for the member photo */
-        margin: 0 auto; /* Center the image horizontally */
+        width: 120px; /* Set the width for the member photo */
+        height: 120px; /* Set the height for the member photo */
+        margin: 20 auto; /* Center the image horizontally */
         border-radius: 50%; /* Maintain a circular shape for the image */
         overflow: hidden; /* Hide overflowing image */
     }
