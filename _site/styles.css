@@ -215,8 +215,8 @@ h1.title {
     }
 
     .member-photo {
-        width: 120px; /* Set the width for the member photo */
-        height: 120px; /* Set the height for the member photo */
+        width: 150px; /* Set the width for the member photo */
+        height: 150px; /* Set the height for the member photo */
         margin: 0 auto; /* Center the image horizontally */
         border-radius: 50%; /* Maintain a circular shape for the image */
         overflow: hidden; /* Hide overflowing image */
@@ -225,7 +225,7 @@ h1.title {
     .member-details {
         text-align: left; /* Left-align the text underneath the image */
         font-size: 0.7em; /* Adjust font size as needed */
-        padding: 0 2px; /* Add some padding to the text for spacing */
+        padding: 0 10px; /* Add some padding to the text for spacing */
     }
 
     .member-details strong {
