@@ -1,21 +1,28 @@
-/* Basic styling for a unique white background and professional look */
+/* Update your CSS with the selected color palette */
 body {
-    font-family: 'Lucida Sans', Arial, sans-serif;
-    background-color: #fafafa;
-    margin: 4em;
-    color: #555;
-    line-height: 1.6;
+  /*  background-color: #7D6BF0; */
+    color: #333333;
+    font-family: 'Georgia', serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #666;
-    margin-bottom: 1em;
+    color: #0074E4;
+    font-family: 'Raleway', sans-serif;
 }
 
+
+
 a {
-    color: #008FBF;
-    text-decoration: none;
+    color: #4CAF50;
 }
+
+/* Add this to create a lavender border around content sections */
+.section {
+    background-color: #fff;
+/*  border: 2px solid #7D6BF0; */
+    padding: 20px;
+}
+
 
 a:hover {
     text-decoration: underline;
@@ -65,20 +72,79 @@ a:hover {
 
 
 .member {
-    margin-top: 3em;
-    margin-bottom: 0em;
+    border-radius: 10px; /* Adjust border-radius as desired */
+    transition: transform 0.3s, box-shadow 0.3s;
+    margin-top: 0em;
+    margin-bottom: 2em;
     position: relative;
+    cursor: pointer;
+    height: 200px;
 }
 
+.custom-link {
+    /* Your custom styles for the clickable block */
+    text-decoration: none; /* Remove underline from the link */
+    color: inherit; /* Inherit text color */
+    display: block; /* Make the link occupy the entire block space */
+    padding: 0; /* Remove padding to eliminate white space */
+    border: none; /* Remove border if any */
+    height: 0px;
+}
+
+/*.member-photo {
+/*    float: left; 
+/*    width: 150px;
+/*    height: 150px;
+/*    object-fit: cover;
+/*    margin-right: 10px; 
+/*    border-right: 0.1px solid #ddd; 
+/*    padding-right: 10px; 
+/*    
+/*}
+
+/* Apply circular borders and hover effect to member photos */
 .member-photo {
     float: left; 
     width: 150px;
     height: 150px;
+    padding-top: 10px;
+    padding-left: 2px;
     object-fit: cover;
-    margin-right: 10px; 
-    border-right: 0.1px solid #ddd; 
-    padding-right: 10px; 
-    
+    margin-right: 10px;
+    background-position: center top;
+    border-radius: 50%;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.member:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Apply the soft glow effect to text when hovering over the entire .member section */
+.member:hover .member-details,
+.member:hover .research-description,
+.member:hover .contact-info {
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0);
+}
+
+
+.member:hover .member-photo {
+    box-shadow: none;
+}
+
+
+/* Make the entire .member section a hyperlink */
+.member a {
+    text-decoration: none; /* Remove underline from the link */
+    color: inherit; /* Inherit text color */
+    display: block; /* Make the link occupy the entire box space */
+    padding: 10px; /* Add padding for clickable area */
+}
+
+/* Change cursor to pointer when hovering over the link */
+.member a:hover {
+    cursor: pointer;
 }
 
 .member-details {
@@ -95,7 +161,7 @@ a:hover {
     display: block; /* Place the name on a new line */
     background: #fafafa;
     padding-left: 0px;
-    padding-top: 10px;
+    padding-top: 20px;
     line-height: 0;
 
 }
@@ -115,3 +181,46 @@ a:hover {
 h1.title {
     display: none;
 }
+
+/* Add a subtle hover animation to icons */
+.icon {
+    transition: transform 0.3s;
+}
+
+.icon:hover {
+    transform: rotate(15deg);
+}
+
+/* Define the color for the special sentence */
+.member .special-sentence a {
+    color: #0074E4; /* Change this color to match your navigation banner color */
+    text-decoration: none; /* Remove underline by default */
+    position: relative;
+    padding-left: 0px;
+}
+
+/* Create a fading underline on hover */
+.member .special-sentence a:hover {
+    text-decoration: none; /* Remove the default underline */
+}
+
+.member .special-sentence a::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 37%;
+    height: 1px; /* Adjust the height of the line */
+    background: #0074E4; /* Change this color to match your navigation banner color */
+    transform-origin: left;
+    transform: scaleX(0);
+    transition: transform 0.3s ease; /* Adjust the transition duration as needed */
+}
+
+.member .special-sentence a:hover::after {
+    transform: scaleX(1);
+}
+
+.reduce-paragraph-spacing p {
+      margin-bottom: 5px; /* Adjust the value as needed */
+    }

@@ -6,28 +6,295 @@ format:
 ---
 
 ::: member
-![](img/frankenhuis.jpg){.member-photo}
+![](img/frankenhuis2.jpg){.member-photo}
 
-::: member-details      
-[**Willem Frankenhuis**](http://www.willem.maartenfrankenhuis.nl/)
+::: member-details
+**Willem Frankenhuis** 
 
-Associate Professor at the Institute for Biodiversity and Ecosystem Dynamics of the University of Amsterdam and Senior Researcher at the Max Planck Institute for the Study of Crime, Security, and Law in Germany.
+Associate Professor at the Institute for Biodiversity and Ecosystem Dynamics of the University of Amsterdam and Senior Researcher at the Max Planck Institute for the Study of Crime, Security, and Law in Germany. 
 
-*Keywords: Child poverty, adaptive self-regulation, socioculturally-valid measuring, strength-based approach*
+:::{.reduce-paragraph-spacing}
+*Keywords:* Child poverty, adaptive self-regulation, socioculturally-valid measuring, strength-based approach
+:::
+
+:::{.reduce-paragraph-spacing}
+::: special-sentence
+[Click here for more information.](http://www.willem.maartenfrankenhuis.nl/)
 :::
 :::
+:::
+:::
+
 
 
 ::: member
-![](img/dejoseph.jpg){.member-photo}
+![](img/meriah.jpg){.member-photo}
 
-::: member-details      
-[**Meriah DeJoseph**](https://meriahdejoseph.com/)
+::: member-details
+**Meriah DeJoseph** 
 
 Postdoctoral scholar at Stanford University.
 
-*Keywords: Child poverty, adaptive self-regulation, socioculturally-valid measuring, strengt-based approach*  
+:::{.reduce-paragraph-spacing}
+*Keywords:* Child poverty, adaptive self-regulation, socioculturally-valid measuring, strength-based approach.
+:::
+
+:::{.reduce-paragraph-spacing}
+::: special-sentence
+[Click here for more information.](https://meriahdejoseph.com/)
+:::
+:::
 :::
 :::
 
 
+
+
+::: member
+![](img/Kat.jpg){.member-photo}
+
+::: member-details
+**Kat Adams** 
+
+Postdoctoral scholar at Stanford University.
+
+:::{.reduce-paragraph-spacing}
+*Keywords:* attention, self-regulation, adapted learning behavior, inequality and inclusivity
+:::
+
+:::{.reduce-paragraph-spacing}
+::: special-sentence
+[Click here for more information.](https://www.katadams.com/)
+:::
+:::
+:::
+:::
+
+
+
+
+::: member
+![](img/dana.png){.member-photo}
+
+::: member-details
+**Dana Miller-Cotto** 
+
+Assistant Professor at Kent State University
+
+:::{.reduce-paragraph-spacing}
+*Keywords:* Students' mathematic performance, cognitive skills, contextual factors, inclusivity
+:::
+
+:::{.reduce-paragraph-spacing}
+::: special-sentence
+[Click here for more information.](https://www.danamillercotto.com/)
+:::
+:::
+:::
+:::
+
+
+
+
+::: member
+![](img/Gabriel.jpeg){.member-photo}
+
+::: member-details
+**Gabriel Reyes** 
+
+PhD Candidate at Stanford University
+
+:::{.reduce-paragraph-spacing}
+*Keywords:* Poverty, brain development, learning, memory, neuroscience, inclusivity.
+:::
+
+:::{.reduce-paragraph-spacing}
+::: special-sentence
+[Click here for more information.](https://greyes1996.github.io/)
+:::
+:::
+:::
+:::
+
+
+
+
+::: member
+![](img/David.jpeg.webp){.member-photo}
+
+::: member-details
+**David Silverman** 
+
+PhD Candidate at Northwestern University.
+
+:::{.reduce-paragraph-spacing}
+*Keywords:* inequity, schools, socio-economic status, strength-based approach
+:::
+
+:::{.reduce-paragraph-spacing}
+::: special-sentence
+[Click here for more information.](https://dmsilverman.com/)
+:::
+:::
+:::
+:::
+
+
+
+
+::: member
+![](img/Ivan.jpg){.member-photo}
+
+::: member-details
+**Ivan Hernandez** 
+
+Postdoctoral Researcher at San Diego State University
+
+:::{.reduce-paragraph-spacing}
+*Keywords:* Identity, well-being, motivation, academic outcomes, underrepresented students
+:::
+
+:::{.reduce-paragraph-spacing}
+::: special-sentence
+[Click here for more information.](https://elifinkel.com/ivan-hernandez)
+:::
+:::
+:::
+:::
+
+
+
+
+::: member
+![](img/Stefan.jpeg){.member-photo}
+
+::: member-details
+**Stefan Vermeent** 
+
+PhD Candidate at Utrecht University
+
+:::{.reduce-paragraph-spacing}
+*Keywords:* Cognitive adaptations to adversity, executive functioning, cognitive modeling
+:::
+
+:::{.reduce-paragraph-spacing}
+::: special-sentence
+[Click here for more information.](http://stefan-vermeent.nl/)
+:::
+:::
+:::
+:::
+
+
+
+
+::: member
+![](img/Monica.jpg.webp){.member-photo}
+
+::: member-details
+**Monica Ellwood-Lowe** 
+
+Postdoctoral Researcher at the University of Pennsylvania.
+
+:::{.reduce-paragraph-spacing}
+*Keywords:* Children's language, cognitive, neural development, societal structures, inequity
+:::
+
+:::{.reduce-paragraph-spacing}
+::: special-sentence
+[Click here for more information.](https://www.mellwoodlowe.com/)
+:::
+:::
+:::
+:::
+
+
+
+
+::: member
+![](img/Christina.jpg){.member-photo}
+
+::: member-details
+**Christina Bauer** 
+
+Postdoctoral Researcher at the University of Vienna.
+
+:::{.reduce-paragraph-spacing}
+*Keywords:* Stigma, successful goal-pursuit, strength-based interventions.
+:::
+
+:::{.reduce-paragraph-spacing}
+::: special-sentence
+[Click here for more information.](https://mot-psy.univie.ac.at/about-us/christina-bauer/)
+:::
+:::
+:::
+:::
+
+
+
+
+::: member
+![](img/Eddie.jpg.webp){.member-photo}
+
+::: member-details
+**Eddie Brummelman** 
+
+Associate Professor at University of Amsterdam.
+
+:::{.reduce-paragraph-spacing}
+*Keywords:* Children’s self-views, inequality, educational achievement, socialization.
+:::
+
+:::{.reduce-paragraph-spacing}
+::: special-sentence
+[Click here for more information.](https://eddiebrummelman.com/)
+:::
+:::
+:::
+:::
+
+
+
+::: member
+![](img/Jazlyn.png){.member-photo}
+
+::: member-details
+**Jazlyn Nketia** 
+
+Society for Research in Child Development (SRCD) U.S. Federal Executive Branch Fellow/ American Association for the Advancement of Science (AAAS) Science & Technology Policy Fellow
+
+:::{.reduce-paragraph-spacing}
+*Keywords:* Children's socioeconomic status and working memory, testing environments, support programs
+:::
+
+:::{.reduce-paragraph-spacing}
+::: special-sentence
+[Click here for more information.]()
+:::
+:::
+:::
+:::
+
+
+
+
+::: member
+![](img/Esther.jpeg){.member-photo}
+
+::: member-details
+**Esther Weijman** 
+
+Research Assistant at Utrecht University
+
+:::{.reduce-paragraph-spacing}
+*Keywords:* Strength-based approach, disadvantaged groups
+:::
+
+:::{.reduce-paragraph-spacing}
+::: special-sentence
+[Click here for more information.](https://www.uu.nl/staff/ELWeijman)
+:::
+:::
+:::
+:::
