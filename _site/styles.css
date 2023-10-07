@@ -6,7 +6,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #0074E4;
+    color: #404040;
     font-family: 'Raleway', sans-serif;
 }
 
@@ -71,10 +71,17 @@ a:hover {
     border-radius: 10px; /* Adjust border-radius as desired */
     transition: transform 0.3s, box-shadow 0.3s;
     margin-top: 0em;
-    margin-bottom: 0em;
+    margin-bottom: 0.2em;
     position: relative;
     cursor: pointer;
-    height: auto + px;
+    height: auto;
+    min-height: 180px;
+    max-height: 210px;
+}
+
+.section .member-details:first-child {
+    margin-top: 0;
+    padding-top: 0;
 }
 
 .custom-link {
@@ -212,8 +219,8 @@ h1.title {
         display: block; /* Reset display to block for mobile */
         text-align: center; /* Center-align content horizontally */
         margin: 0; /* Reset margin */
-        height: auto;
-        min-height: 170px;
+      height: auto; /* Allow the member box to adjust its height based on content */
+        min-height: 150px; /* Set a minimum height for the member box */
     }
 
     .member-photo {
@@ -238,4 +245,34 @@ h1.title {
         padding-top: 20px;
         line-height: 0;
     }
+}
+
+
+.on-this-page {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.on-this-page h2 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.on-this-page ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.on-this-page li {
+    margin-bottom: 5px;
+}
+
+.on-this-page a {
+    text-decoration: none;
+    color: #0074e4; /* Adjust the color to match your design */
+}
+
+.on-this-page a:hover {
+    text-decoration: underline;
 }

@@ -1,3 +1,13 @@
+---
+format:
+  html:
+    grid: 
+      body-width: 2000px
+      sidebar-width: 200px
+      margin-width: 200px
+    toc: true
+---
+
 # Welcome to the Jacobs Research Network
 
 We aim to improve science communication about people who experience social, economic, and other forms of adversity. Our goal is to adopt a humanizing and holistic approach that recognizes and highlights the unique knowledge and strengths of people who are systematically disadvantaged in our societies.

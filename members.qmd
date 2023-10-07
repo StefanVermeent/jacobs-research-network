@@ -1,12 +1,9 @@
 ---
 title: "Members"
-format:
-  html:
-    css: styles.css
 ---
 
 ::: member
-![](img/frankenhuis2.jpg){.member-photo}
+![](img/Willem.jpeg){.member-photo}
 
 ::: member-details
 **Willem Frankenhuis** 
@@ -23,8 +20,6 @@ Associate Professor at the Institute for Biodiversity and Ecosystem Dynamics of 
 :::
 :::
 :::
-
-
 
 ::: member
 ![](img/meriah.jpg){.member-photo}
