@@ -26,46 +26,55 @@ a:hover {
 }
 
 .product-box {
-    position: relative; /* To allow absolute positioning inside it */
+    position: relative;
     display: inline-block;
-    width: 200px; /* Set a width and height that fits your images and design */
-    height: 200px;
-    overflow: hidden; /* To ensure the zoom effect doesn't spill outside the box */
+    width: 200px;
+    height: auto;
+    overflow: hidden;
     margin: 15px;
     border-radius: 7px;
-    transition: transform 0.3s; /* smooth transition for the zoom */
-}
-
-.product-box:hover {
-    transform: scale(1.05); /* slightly enlarges the box */
+    transition: transform 0.3s;
+    background: #f0f0f0; /* Add a background color for better text readability */
 }
 
 .product-box img {
-    width: 100%; /* Make the image take up the full width of the container */
-    height: 100%; /* Make the image take up the full height of the container */
-    object-fit: cover; /* To make sure the image scales correctly */
-    transition: transform 0.3s; /* smooth transition for the zoom */
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
 }
 
-.product-box:hover img {
-    transform: scale(1.1); /* slightly enlarges the image on hover */
+.product-box:hover {
+    transform: scale(1.05);
 }
 
-.overlay-text {
-    position: absolute; /* Absolutely position the text over the image */
-    bottom: 10px; /* Position it near the bottom */
-    left: 10px; /* Position it slightly from the left */
-    color: #FAF9F6; /* White color for text */
-    background-color: rgba(0, 0, 0, 0.5); /* Slight black background for readability */
-    padding: 5px;
-    border-radius: 5px;
-    transition: transform 0.3s, font-size 0.3s; /* smooth transition for the zoom and font size */
+.product-text {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background for text */
+    text-align: center;
+    transition: background-color 0.3s;
+    opacity: 1; /* Initially hide the text */
+    pointer-events: none; /* Allow clicking through the text */
 }
 
-.product-box:hover .overlay-text {
-    transform: scale(1.1); /* slightly enlarges the text on hover */
-    font-size: 1.1em; /* slightly increases font size on hover */
+.product-box:hover .product-text {
+    opacity: 1; /* Show the text on hover */
 }
+
+.product-text h3 {
+    font-size: 16px;
+    margin: 0;
+}
+
+.product-text p {
+    font-size: 14px;
+    margin: 0;
+}
+
 
 .member {
     border-radius: 10px; /* Adjust border-radius as desired */

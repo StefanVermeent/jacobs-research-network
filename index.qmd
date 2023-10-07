@@ -21,7 +21,7 @@ We aspire for synergy with anyone who shares our mission, including journalists,
 ::: product-box
 ![](img/project1.jpg)
 
-::: overlay-text
+::: product-text
 Description for Product 1
 :::
 :::
