@@ -5,7 +5,7 @@ format:
       body-width: 2000px
       sidebar-width: 200px
       margin-width: 200px
-    toc: true
+    toc: false
 ---
 
 # Welcome to the Jacobs Research Network
@@ -14,7 +14,7 @@ We aim to improve science communication about people who experience social, econ
 
 We are a group of scientists across the world at different career stages who come from diverse backgrounds and hold unique identities.We are a group of mainly early-career scientists. We have diverse backgrounds and identities.
 
-We aspire for synergy with anyone who shares our mission, including journalists, policy makers, and other stakeholders. If you\'re interested, feel free to reach out!
+We aspire for synergy with anyone who shares our mission, including journalists, policy makers, and other stakeholders. If you're interested, feel free to reach out!
 
 # Recent products
 
@@ -25,8 +25,6 @@ We aspire for synergy with anyone who shares our mission, including journalists,
 Description for Product 1
 :::
 :::
-
-
 
 ::: product-box
 ![](img/project2.jpg)
