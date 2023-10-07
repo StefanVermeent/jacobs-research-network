@@ -3,7 +3,7 @@ title: "Members"
 ---
 
 ::: member
-![](img/Willem.jpeg){.member-photo}
+![](img/Willem.jpg){.member-photo}
 
 ::: member-details
 **Willem Frankenhuis** 
@@ -264,7 +264,7 @@ Society for Research in Child Development (SRCD) U.S. Federal Executive Branch F
 
 :::{.reduce-paragraph-spacing}
 ::: special-sentence
-[Click here for more information.]()
+[Click here for more information.](https://scholar.google.com/citations?user=2C7OTv4AAAAJ&hl=en&oi=ao)
 :::
 :::
 :::
