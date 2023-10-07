@@ -26,10 +26,12 @@ Description for Product 1
 :::
 :::
 
+
+
 ::: product-box
 ![](img/project2.jpg)
 
-::: overlay-text
-Description for Product 2
+::: product-text
+Description for Product 1
 :::
 :::
