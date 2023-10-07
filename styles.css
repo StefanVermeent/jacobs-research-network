@@ -228,7 +228,7 @@ h1.title {
         display: block; /* Reset display to block for mobile */
         text-align: center; /* Center-align content horizontally */
         margin: 0; /* Reset margin */
-      height: auto; /* Allow the member box to adjust its height based on content */
+        height: auto; /* Allow the member box to adjust its height based on content */
         min-height: 150px; /* Set a minimum height for the member box */
     }
 
@@ -256,32 +256,3 @@ h1.title {
     }
 }
 
-
-.on-this-page {
-    background-color: #f8f8f8;
-    border: 1px solid #ddd;
-    padding: 10px;
-}
-
-.on-this-page h2 {
-    font-size: 1.2em;
-    margin-bottom: 10px;
-}
-
-.on-this-page ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-.on-this-page li {
-    margin-bottom: 5px;
-}
-
-.on-this-page a {
-    text-decoration: none;
-    color: #0074e4; /* Adjust the color to match your design */
-}
-
-.on-this-page a:hover {
-    text-decoration: underline;
-}
