@@ -85,7 +85,6 @@ a:hover {
     cursor: pointer;
     height: auto;
     min-height: 180px;
-    max-height: 210px;
 }
 
 .section .member-details:first-child {
@@ -229,7 +228,7 @@ h1.title {
         text-align: center; /* Center-align content horizontally */
         margin: 0; /* Reset margin */
         height: auto; /* Allow the member box to adjust its height based on content */
-        min-height: 150px; /* Set a minimum height for the member box */
+        min-height: 150px;
     }
 
     .member-photo {
