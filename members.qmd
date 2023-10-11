@@ -214,7 +214,7 @@ Associate Professor at University of Amsterdam.
 
 ::: reduce-paragraph-spacing
 ::: special-sentence
-[Click here for more information.](https://eddiebrummelman.com/)
+[Click here for more information.](https://kidlab.nl/)
 :::
 :::
 :::
