@@ -124,17 +124,17 @@ PhD Candidate at Northwestern University.
 ![](img/Ivan.jpg){.member-photo}
 
 ::: member-details
-**Ivan Hernandez**
+**Ivan A. Hernandez**
 
 Postdoctoral Researcher at San Diego State University
 
 ::: reduce-paragraph-spacing
-*Keywords:* Identity, well-being, motivation, academic outcomes, underrepresented students
+*Keywords:* Background-specific strengths, identity, motivation
 :::
 
 ::: reduce-paragraph-spacing
 ::: special-sentence
-[Click here for more information.](https://elifinkel.com/ivan-hernandez)
+[Click here for more information.](https://ivanalfonsohernandez.com/)
 :::
 :::
 :::
