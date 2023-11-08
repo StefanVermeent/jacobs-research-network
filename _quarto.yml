@@ -9,7 +9,6 @@ website:
         text: Home
       - about.qmd
       - members.qmd
-      - products.qmd
 
 format:
   html:

@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jacobs Research Network",
-    "section": "",
-    "text": "Recent products\n\n\n\nDescription for Product 1\n\n\n\n\n\nDescription for Product 1"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "In the public domain, people who belong to systematically disadvantaged groups are often cast in a negative light. The discourse uses the language of deficit (e.g., ‘impaired’ cognition) and emphasizes (what are thought to be) flawed decisions (e.g., an ‘inability’ to delay gratification). However:\n\nDisparities between people from systematically advantaged and disadvantaged groups may often be the result of factors other than impaired ability. For instance, making learning and testing materials more relevant can help or hinder performance.\nPeople also develop unique knowledge, perspectives, values, strengths, and strategies as a result of their lived experiences associated with their identity and background. For instance, they might be more attuned to other people’s thoughts and feelings.\nPeople make decisions that can be understood as a response to their environment. For instance, they might invest less in future rewards if these are unlikely to materialize."
+    "text": "In the public domain, people who belong to systematically disadvantaged groups are often cast in a negative light. The discourse uses the language of deficit (e.g., ‘impaired’ cognition) and emphasizes (what are thought to be) flawed decisions (e.g., an ‘inability’ to delay gratification). This way, people are themselves blamed for the inequities they face. However:\n\nDisparities between people from systematically advantaged and disadvantaged groups may often be the result of factors other than impaired ability. For instance, making learning and testing materials more relevant can help or hinder performance.\nPeople also develop unique knowledge, perspectives, values, strengths, and strategies as a result of their lived experiences associated with their identity and background. For instance, they might be more attuned to other people’s thoughts and feelings.\nPeople make decisions that can be understood as a response to their environment. For instance, they might invest less in future rewards if these are unlikely to materialize."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jacobs Research Network",
+    "section": "",
+    "text": "We aim to improve science communication about people who experience social, economic, and other forms of adversity. Our goal is to adopt a humanizing and holistic approach that recognizes and highlights the unique knowledge and strengths of people who are systematically disadvantaged in our societies.\nWe are a group of scientists across the world at different career stages who come from diverse backgrounds and hold unique identities.We are a group of mainly early-career scientists. We have diverse backgrounds and identities.\nWe aspire for synergy with anyone who shares our mission, including journalists, policy makers, and other stakeholders. If you’re interested, feel free to reach out!"
   },
   {
     "objectID": "members.html",
@@ -19,19 +19,5 @@
     "title": "Members",
     "section": "",
     "text": "Meriah DeJoseph\nPostdoctoral scholar at Stanford University.\n\nKeywords: Child poverty, adaptive self-regulation, socioculturally-valid measuring, strength-based approach.\n\n\n\nClick here for more information.\n\n\n\n\n\n\n\nKat Adams Shannon\nPostdoctoral scholar at Stanford University.\n\nKeywords: attention, self-regulation, adapted learning behavior, inequality and inclusivity\n\n\n\nClick here for more information.\n\n\n\n\n\n\n\nDana Miller-Cotto\nAssistant Professor at Kent State University\n\nKeywords: Students’ mathematic performance, cognitive skills, contextual factors, inclusivity\n\n\n\nClick here for more information.\n\n\n\n\n\n\n\nGabriel Reyes\nPhD Candidate at Stanford University\n\nKeywords: Poverty, brain development, learning, memory, neuroscience, inclusivity.\n\n\n\nClick here for more information.\n\n\n\n\n\n\n\nDavid Silverman\nPhD Candidate at Northwestern University.\n\nKeywords: inequity, schools, socio-economic status, strength-based approach\n\n\n\nClick here for more information.\n\n\n\n\n\n\n\nIvan A. Hernandez\nPostdoctoral Researcher at San Diego State University\n\nKeywords: Background-specific strengths, identity, motivation\n\n\n\nClick here for more information.\n\n\n\n\n\n\n\nStefan Vermeent\nPhD Candidate at Utrecht University\n\nKeywords: Cognitive adaptations to adversity, executive functioning, cognitive modeling\n\n\n\nClick here for more information.\n\n\n\n\n\n\n\nMonica Ellwood-Lowe\nPostdoctoral Researcher at the University of Pennsylvania.\n\nKeywords: Children’s language, cognitive, neural development, societal structures, inequity\n\n\n\nClick here for more information.\n\n\n\n\n\n\n\nChristina Bauer\nPostdoctoral Researcher at the University of Vienna.\n\nKeywords: Stigma, successful goal-pursuit, strength-based interventions.\n\n\n\nClick here for more information.\n\n\n\n\n\n\n\nEddie Brummelman\nAssociate Professor at University of Amsterdam.\n\nKeywords: Children’s self-views, inequality, educational achievement, socialization.\n\n\n\nClick here for more information.\n\n\n\n\n\n\n\nJazlyn Nketia\nSociety for Research in Child Development (SRCD) U.S. Federal Executive Branch Fellow/ American Association for the Advancement of Science (AAAS) Science & Technology Policy Fellow\n\nKeywords: Children’s socioeconomic status and working memory, testing environments, support programs\n\n\n\nClick here for more information.\n\n\n\n\n\n\n\nEsther Weijman\nResearch Assistant at Utrecht University\n\nKeywords: Strength-based approach, disadvantaged groups\n\n\n\nClick here for more information."
-  },
-  {
-    "objectID": "members.html#member-2",
-    "href": "members.html#member-2",
-    "title": "Members",
-    "section": "Member 2",
-    "text": "Member 2\n\n\n\n\nMember 2 Image\n\n\n\nJane Smith\n[Description of focus]\nKeywordA, KeywordB, KeywordC"
-  },
-  {
-    "objectID": "about.html#products",
-    "href": "about.html#products",
-    "title": "About",
-    "section": "Products",
-    "text": "Products\nOur products offer a broad, humanistic view on people who belong to systematically disadvantaged groups. We create a wide variety of products, such as infographics, fact sheets, animations, and scientific articles."
   }
 ]

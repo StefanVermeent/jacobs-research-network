@@ -16,20 +16,3 @@ We are a group of scientists across the world at different career stages who com
 
 We aspire for synergy with anyone who shares our mission, including journalists, policy makers, and other stakeholders. If you're interested, feel free to reach out!
 
-# Recent products
-
-::: product-box
-![](img/project1.jpg)
-
-::: product-text
-Description for Product 1
-:::
-:::
-
-::: product-box
-![](img/project2.jpg)
-
-::: product-text
-Description for Product 1
-:::
-:::
